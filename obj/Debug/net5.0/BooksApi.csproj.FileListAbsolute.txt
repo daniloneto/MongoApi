@@ -1,0 +1,7 @@
+C:\projetos\mongoApi\BooksApi\obj\Debug\net5.0\BooksApi.csproj.AssemblyReference.cache
+C:\projetos\mongoApi\BooksApi\obj\Debug\net5.0\BooksApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\mongoApi\BooksApi\obj\Debug\net5.0\BooksApi.AssemblyInfoInputs.cache
+C:\projetos\mongoApi\BooksApi\obj\Debug\net5.0\BooksApi.AssemblyInfo.cs
+C:\projetos\mongoApi\BooksApi\obj\Debug\net5.0\BooksApi.csproj.CoreCompileInputs.cache
+C:\projetos\mongoApi\BooksApi\obj\Debug\net5.0\BooksApi.MvcApplicationPartsAssemblyInfo.cs
+C:\projetos\mongoApi\BooksApi\obj\Debug\net5.0\BooksApi.MvcApplicationPartsAssemblyInfo.cache
